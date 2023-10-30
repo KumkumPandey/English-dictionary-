@@ -1,2 +1,2 @@
 # English-dictionary-
-This is an engl 
+This is an English-dictionary
